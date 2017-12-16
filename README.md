@@ -1,5 +1,5 @@
 # My Nodeschool Solutions
 
-My solutions to [nodeschool.io][] workshops.
+My solutions to [nodeschool][] workshops.
 
 [nodeschool]: http://nodeschool.io
